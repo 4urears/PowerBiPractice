@@ -1,2 +1,2 @@
 # PowerBiPractice
-Practice power Bi Dashboard
+Practice Power Bi Dashboard
